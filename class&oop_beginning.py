@@ -1,1 +1,1 @@
-buna ne desek bilmiyorum
+print("saçmalama")
