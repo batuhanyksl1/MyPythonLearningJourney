@@ -1,5 +1,1 @@
-isim = batuhan
-
-
-isim
-hxjd
+print("test")
