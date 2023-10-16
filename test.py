@@ -11,3 +11,6 @@ class adressbook:
 
 #nasıl getireceğimi bilmiyorum.
 user1=adressbook("Baturalp","Yüksel",5345241548,2)
+
+
+"silmeme izin vermiyor ama başka ekletme yaptırıyor."
